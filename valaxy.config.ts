@@ -12,7 +12,7 @@ const safelist = [
 export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
 
-  theme: 'hirty',
+  theme: 'yun',
 
   themeConfig: {
     banner: {
