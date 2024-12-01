@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: 'thirty',
+  title: 'thirty、',
   author: {
     name: 'thirty',
   },
@@ -77,7 +77,7 @@ export default defineSiteConfig({
     },
     {
       name: 'E-Mail',
-      link: 'mailto:me@yunyoujun.cn',
+      link: '635970162@qq.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
